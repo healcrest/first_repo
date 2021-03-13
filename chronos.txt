@@ -2,3 +2,5 @@
 "Poseidon"
 "Heides"
 "Athena"
+"Porkopyu"
+"Pedro"
